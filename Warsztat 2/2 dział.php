@@ -9,7 +9,7 @@ function random($number){
 }
 echo random(3);
 
-echo "   Zadanko 2.2---> ";
+echo " <br>Zadanko 2.2---> ";
 
 function WhatNationalityAmI($x)
 {
